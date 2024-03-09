@@ -222,7 +222,7 @@ h6 {
 	text-align: center;
 }
 
-.card-testimonal>.card-avatar {
+.card-testimonal .card-avatar {
 	border-radius: 50%;
 	width: 10rem;
 	height: 10rem;
@@ -275,7 +275,7 @@ h6 {
 }
 
 .social-link>svg {
-	color: var(--text-color);
+	fill: var(--text-color);
 }
 
 [class^="col-"] {
