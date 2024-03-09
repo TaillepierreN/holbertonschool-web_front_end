@@ -309,7 +309,7 @@ h6 {
 	overflow: hidden;
 }
 
-.card-work .card-outer {
+.card-work:hover .card-outer {
 	transform: scale(0.95);
 }
 
