@@ -320,6 +320,11 @@ h6 {
 	overflow: hidden;
 }
 
+.card-work .card-outer
+{
+	transform: scale(0.95);
+}
+
 .card-work .card-image
 {
 	transform: scale(1.2);
